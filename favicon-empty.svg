@@ -1,0 +1,30 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <!-- Hat Crown Top -->
+    <path d="M 73 26 v -4 a 10 10 0 0 1 10 -10 h 90 a 10 10 0 0 1 10 10 v 4 z" fill="#1C1936" stroke="#2C2844" stroke-width="2"/>
+    
+    <!-- Hat Body -->
+    <rect x="58" y="26" width="140" height="170" fill="#1C1936" stroke="#2C2844" stroke-width="2"/>
+    
+    <!-- Left Shine -->
+    <rect x="68" y="38" width="14" height="110" rx="7" fill="rgba(255,255,255,0.04)"/>
+    <!-- Right Shine -->
+    <rect x="178" y="46" width="6" height="60" rx="3" fill="rgba(255,255,255,0.02)"/>
+    
+    <!-- Gold Band -->
+    <rect x="59" y="170" width="138" height="26" fill="#E8C97A"/>
+    <!-- Band Shine -->
+    <rect x="66" y="174" width="124" height="4" rx="2" fill="rgba(255,255,255,0.25)"/>
+    
+    <!-- Brim Shadow Layer -->
+    <rect x="23" y="194" width="210" height="8" rx="4" fill="rgba(0,0,0,0.5)"/>
+    
+    <!-- Brim -->
+    <rect x="25.5" y="196" width="205" height="22" rx="5" fill="#151326" stroke="#2C2844" stroke-width="2"/>
+    <!-- Brim Highlight -->
+    <rect x="37.5" y="199" width="181" height="3" rx="1.5" fill="rgba(255,255,255,0.07)"/>
+    
+    <!-- TH Logo -->
+    <text x="128" y="150" font-family="Playfair Display" font-weight="bold" font-size="64" fill="#E8C97A" text-anchor="middle" letter-spacing="4">TH</text>
+  </g>
+</svg>
